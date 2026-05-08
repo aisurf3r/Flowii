@@ -1,6 +1,10 @@
 # Flowii ✦
 
 **Campo de partículas ASCII reactivo al cursor · Standalone · Sin dependencias**
+<img width="1883" height="955" alt="{E524BC0B-E621-48C2-89CA-1BE650A75D79}" src="https://github.com/user-attachments/assets/7a694943-f01b-4c39-9c28-9a00a242ff04" />
+
+<img width="1897" height="956" alt="{99EF910D-0D9E-405C-9248-6940D28958C9}" src="https://github.com/user-attachments/assets/d5c614c1-7240-418f-b7b5-96f272a5b11c" />
+
 
 ---
 
