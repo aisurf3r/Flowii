@@ -1,1 +1,1 @@
-{ "redirects": [ { "source": "/", "destination": "/flowii.html", "permanent": true  } ] }
+{ "redirects": [ { "source": "/", "destination": "/flowii.html", "permanent": true "cleanUrls": true  } ] }
